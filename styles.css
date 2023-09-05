@@ -1,0 +1,140 @@
+.logo, .vemail,.vpassword,.onboarding{
+    display: inline-block;
+    font-size: 15px;
+}
+.img{
+    width: 90px;
+    height: 2px;
+}
+.vemail{
+    margin-left: 200px;
+
+}
+.vpassword,.onboarding{
+    margin-left: 49px;
+}
+.right,.all{
+    display: inline-block;
+}
+.right{
+    width: 400px;
+    margin-left: 220px;
+}
+.all{
+    margin-left: 277px;
+    padding-top: 9px;
+     
+}
+.head{
+    margin-bottom:20px;
+}
+.mobile,.email,.gst{
+    border-width: 1px;
+    width: 390px;  
+    padding: 13px;
+    border-radius: 7px;
+    border-style: solid;
+    margin-bottom: 24px;
+    cursor: auto;
+}
+.mobile:hover,.email:hover,.gst:hover{
+    border-color: #007CD9;
+}
+.what{
+    margin-bottom: 24px;
+}
+.categories,.books{
+    width: 149px;
+    height: 49px;
+    padding-left:1px;
+    background-color: #fff;
+    border-style: solid;
+    border-color: rgba(30, 28, 28, 0.332);
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 24px;
+    color: black;
+    border-width: 1px;
+}
+.categories,.books:hover{
+    color: #007CD9;
+    border-color: #007CD9;
+    background-color: #E5EFFA;
+    border-width: 1px;
+}
+.a,.b{
+    display:inline-block;
+    vertical-align: top;
+    margin-left: 8px;
+    
+}
+.sp{
+    font-size: 9px;
+    margin-bottom: ;
+
+}
+.gstin{
+    margin-bottom: 24px;
+    color: #201f1f;
+    font-size: 13px;
+    font-weight: bold;
+}
+*{
+    font-family: sans-serif;
+
+}
+.byc{
+    font-size: 13px ;
+    color:#060708;
+    margin-bottom: 24px;
+}
+
+.terms{
+  color: #007CD9; 
+  cursor: pointer; 
+}
+.terms:hover{
+    
+}
+.register{
+background-color: #0066CC;
+color: white;
+font-weight: bold;
+border: none;
+padding: 12px;
+border-radius: 9px;
+cursor: pointer;
+}
+.bigimgs{
+    border-radius: 20px;
+
+}
+.bigimg{
+    margin-top: 20px;
+}
+.raju{
+    border:1px solid #201f1f;
+    border-radius: 17px;
+}
+
+.lastly{
+    font-size: 14px;
+}
+.starting{
+    font-size: 14px;
+    color: #000000;
+}
+.author{
+    font-size: 12px;
+    margin-bottom: 24px;
+}
+.lastly{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 20px;
+
+}
+.raju{
+    width: 270px;
+    padding: 15px;
+}
